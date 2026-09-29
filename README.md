@@ -1,6 +1,6 @@
 # Hi, I'm Shantipriya Shastry 
 
-3rd Year B.Tech CSE (AI & ML) Student  
+B.Tech CSE (AI & ML) Student  
 Learning Java, Data Structures & Algorithms  
 Exploring Artificial Intelligence, Machine Learning & Software Development  
 
